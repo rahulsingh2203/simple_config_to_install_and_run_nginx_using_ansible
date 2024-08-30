@@ -1,0 +1,1 @@
+# simple_config_to_install_and_run_nginx_using_ansible
